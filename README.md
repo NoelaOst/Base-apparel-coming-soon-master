@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-![### Screenshot]()
+![### Screenshot](https://user-images.githubusercontent.com/110282131/197013251-e25a3bfc-95fa-4d96-ad7d-b421e0f56d30.png)
 
 ### Links
 
@@ -32,8 +32,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 ### What I learned
-
-Each time using Tailwind CSS you learn more names for utiliy classes, ultimatly you get quicker at developing.
+This is my 2nd Tailwind CSS project, most important thing I learned this time around is how to host your own font.
+Also, each time you use Tailwind CSS you learn more names for utiliy classes, ultimatly you get quicker at developing.
 Got to love Tailwind 
 
 ## Author
